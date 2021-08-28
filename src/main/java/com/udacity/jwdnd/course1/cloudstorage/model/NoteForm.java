@@ -8,5 +8,7 @@ import lombok.Setter;
 public class NoteForm {
     private String title;
     private String description;
+    private String noteId;
+
 
 }
